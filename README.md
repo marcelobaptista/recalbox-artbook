@@ -31,3 +31,4 @@ Original RetroPie thread: https://retropie.org.uk/forum/topic/11728/new-theme-ar
 - System logos modified from the Carbom theme by Eric Hettervik
 - ChangaOne font by Eduardo Tunni
 - SGV logos from the Recalbox-Next theme that are being converter to white color - https://gitlab.com/recalbox/recalbox-themes/tree/master/themes/recalbox-next
+- Anthonycaccese for its work on es-theme-art-book, project we have forked from - https://github.com/anthonycaccese/es-theme-art-book
