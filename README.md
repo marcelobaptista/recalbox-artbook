@@ -1,11 +1,10 @@
 # Art Book, an EmulationStation theme
+
+Note: This is a fork from the RetroPie there. The main goal here is to make it compatible with
+Recalbox Emulationstation, and in a near future, add support to region based logos.
+
 A simple theme for Emulation Station and RetroPie based on the look of a coffee table book.  
 Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/new-theme-art-book
-
-## Preview
-
-### Video Walkthrough
-https://www.youtube.com/watch?v=k_fKUiH_j-8
 
 ### Screenshots
 
@@ -23,20 +22,16 @@ https://www.youtube.com/watch?v=k_fKUiH_j-8
 
 ## Details
 
-- Full list of supported systems: https://docs.google.com/spreadsheets/d/1gzaP0klzaBaE5_oB1_hQwr46qOmQnacSvSU3o-p5Q7U/edit#gid=0
-- Has many custom themes as well - mario (Super Mario Bros), zelda (Legend of Zelda), megaman, etc... (see "custom themes" tab in the google doc above for the full list) 
-- System, basic, detailed and video views are supported
-- Support for new "All Games", "Favorites", "Last Played" and "Custom Collections" features in latest version of EmulationStation
+- Support for custom themes is being remove. Our goal here is not to support custom gamelists(zelda, megaman, taito, etc) but to port this theme to Recalbox.
+- Video view will be converted on a simple "box+screenshot+gamelogo view".
 - Displays rating, description, # of players, genre, publish date & last played metadata on detailed and video views
 - 16x9 resolutions only (tested at 1280x720 and 1920x1080)
-- Layout designed to support hardware accelerated OMX player on video views
 
 ## Acknowledgments
 
 - System logos modified from the Carbom theme by Eric Hettervik
-- Controller artwork created by Eric Hettervik from the Carbon theme (see: https://github.com/RetroPie/es-theme-carbon)
 - ChangaOne font by Eduardo Tunni
-- Static.mp4 default video from OldRoom theme by Nismo (see: https://retropie.org.uk/forum/topic/8019/oldroom-theme-w-i-p-new-1-9-beta-media-packs)
+- SGV logos from the Recalbox-Next theme that are being converter to white color - https://gitlab.com/recalbox/recalbox-themes/tree/master/themes/recalbox-next
 
 ## Scraping 
 using selph's scraper: https://github.com/sselph/scraper
